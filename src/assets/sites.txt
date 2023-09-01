@@ -1,0 +1,3 @@
+https://blog.bitsrc.io/top-8-tools-for-angular-development-in-2023-a99d9f3a2e4e - ANGULAR
+https://www.mundojs.com.br/category/post/ - JAVASCRIPT
+https://www.mundojs.com.br/2020/09/09/criando-single-page-website-com-nodejs/ - NODE

@@ -1,0 +1,28 @@
+.container-secondary-card {
+    margin-top: 20px;
+    height: 42%;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-secondary-card {
+    width: 97%;
+    border-radius: 20px;
+}
+
+.title-secondary-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.paragraph-date-secondary-card {
+    font-size: 10px;
+    margin-left: 15px;
+    color: grey;
+    margin-top: 20px;
+}
