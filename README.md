@@ -4,6 +4,8 @@
 <p align="center">Esse trabalho foi realizado utilizando primordialmente o framework Angular além da linguagem de programação Typescript e JavaScript. <br> 
 Teve como objetivo construir um blog de livre escolha quanto ao tema, e optei por criar um espaço para programadores, com utilidade real, dando dicas quanto a assuntos relacionados ao mundo da tecnologia de desenvolvimento de software. 
 Esse projeto foi realizado no âmbito do Santander Bootcamp, jornada FullStack (Java + Angular) ministrado pela Digital Innovation One - DIO, e foi a primeira vez que trabalhei com as tecnologias Angular e Typescript.
+<br> 
+<br> 
 Uma das principais features utilizadas foi a componentização dos blocos de conteúdo, possibilitando que novas áreas sejam criadas com muita facilidade com reaproveitamento de código, além de possibiltiar fácil manutenção dos elementos existentes, por serem todos independentes entre si.
 </p>
 <br>
