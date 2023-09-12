@@ -19,8 +19,8 @@ Uma das principais features utilizadas foi a componentização dos blocos de con
 <br>
 <h2 align="center">Visualização do Projeto</h2> 
  
-![angular blog](https://github.com/Mateus-Oling/Blog-programador-Angular/assets/135168984/246af0cb-18b5-4a1e-8c93-50bda7280bd7)
+![image](https://github.com/Mateus-Oling/Blog-programador-Angular/assets/135168984/6d0e63e3-cc9c-4081-9216-39a2f5a43176)
 
 <h2 align="center">Link do Projeto</h2>
-<p align="center"> https://blog-programador-angular.vercel.app/ </p>
+<p align="center"> https://playstation-store-angular-gold.vercel.app/ </p>
 
